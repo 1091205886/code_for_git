@@ -2,3 +2,6 @@
 
 
 sdafsfsdssasasasfsadsad
+
+
+尝试git stash
